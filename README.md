@@ -47,13 +47,6 @@ dotnet run
 4. Abra o navegador no endereço informado pelo terminal.
 
 ---
-
-## 📸 Screenshot
-
-Adicionar uma imagem da aplicação em funcionamento.
-
-```markdown
-![Meu Currículo Blazor](./screenshot.png)
 ```
 
 ---
